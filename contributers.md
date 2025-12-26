@@ -44,6 +44,7 @@
 | Ayush Mishra           | ayush-mg                | IIIT Allahabad                                                   |
 | Ronak Goyal            | ronakgoyal1             | IIIT Allahabad                                                   |
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
+| Somesh Pawan Kamad      | Entropy-rgb         | IIIT Hyderabad                                                |
 | Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
